@@ -1,0 +1,560 @@
+﻿Surname;Given names;Nation;Flights;time_in_space;sex_or_genderLabel;birth;death;age
+Padalka;Gennadi Ivanovich;USSR;5;1265009;male;21.6.1958;;
+Malenchenko;Yuri Ivanovich;USSR;6;1191440;male;22.12.1961;;
+Krikalev;Sergei Konstantinovich;USSR;6;1156898;male;27.8.1958;;
+Kaleri;Aleksandr Yuriyevich;USSR;5;1107753;male;13.5.1956;;
+Avdeyev;Sergei Vasiliyevich;USSR;3;1076531;male;1.1.1956;;
+Kononenko;Oleg Dmitriyevich;Russia;4;1060963;male;21.6.1964;;
+Polyakov;Valeri Vladimirovich;USSR;2;977312;male;27.4.1942;;
+Yurchikhin;Fyodor Nikolayevich;Russia;5;968918;male;3.1.1959;;
+Whitson;Peggy Annette;USA;3;958942;female;9.2.1960;;
+Solovyev;Anatoli Yakovlevich;USSR;5;937438;male;16.1.1948;;
+Afanasyev;Viktor Mikhailovich;USSR;4;800312;male;31.12.1948;;
+Usachov;Yuri Vladimirovich;USSR;4;796223;male;9.10.1957;;
+Volkov;Sergei Aleksandrovich;Russia;3;789020;male;1.4.1973;;
+Vinogradov;Pavel Vladimirovich;Russia;3;787591;male;31.8.1953;;
+Manarov;Musa Khiromanovich;USSR;2;779068;male;22.3.1951;;
+Williams;Jeffrey Nels;USA;4;769128;male;18.1.1958;;
+Shkaplerov;Anton Nikolayevich;Russia;3;767851;male;20.2.1972;;
+Tyurin;Mikhail Vladislavovich;Russia;3;766251;male;2.3.1960;;
+Kotov;Oleg Valeriyevich;Russia;3;757741;male;27.10.1965;;
+Kelly;Scott Joseph;USA;4;749430;male;21.2.1964;;
+Korniyenko;Mikhail Borisovich;Russia;2;743640;male;15.4.1960;;
+Viktorenko;Aleksandr Stepanovich;USSR;4;704253;male;29.3.1947;;
+Budarin;Nikolai Mikhailovich;USSR;3;639443;male;29.4.1953;;
+Romanenko;Yuri Viktorovich;USSR;3;620301;male;1.8.1944;;
+Volkov;Aleksandr Aleksandrovich;USSR;3;563751;male;27.5.1948;;
+Onufriyenko;Yuri Ivanovich;USSR;2;561045;male;6.2.1961;;
+Titov;Vladimir Georgiyevich;USSR;4;557323;male;1.1.1947;;
+Tsibliyev;Vasili Vasiliyevich;USSR;2;549592;male;20.2.1954;;
+Korzun;Valeri Grigoriyevich;USSR;2;549580;male;5.3.1953;;
+Fincke;"Edward Michael ""Mike""";USA;3;549547;male;14.3.1967;;
+Ovchinin;Aleksei Nikolaevich;Russia;2;539732;male;28.9.1971;;
+Kizim;Leonid Denisovich;USSR;3;539636;male;5.8.1941;14.6.2010;69
+Foale;Colin Michael;USA;6;538216;male;6.1.1957;;
+Serebrov;Aleksandr Aleksandrovich;USSR;4;537052;male;15.2.1944;12.11.2013;69
+Ryumin;Valeri Viktorovich;USSR;4;535284;male;16.8.1939;;
+Pettit;Donald Roy;USA;3;532361;male;20.4.1955;;
+Artemyev;Oleg Germanovich;Russia;2;526985;male;28.12.1970;;
+Gerst;Alexander;Germany;2;521391;male;3.5.1976;;
+Solovyov;Vladimir Alekseyevich;USSR;2;521209;male;11.11.1946;;
+Reiter;Thomas Arthur;Germany;2;504335;male;23.5.1958;;
+Wakata;Koichi;Japan;4;500190;male;1.8.1963;;
+Skvortsov;Aleksandr Aleksandrovich Jr.;Russia;3;497183;male;6.5.1966;;
+Musabayev;Talgat Amangeldyyevich;USSR;3;491626;male;7.1.1951;;
+Novitskiy;Oleg Viktorovich;Russia;2;490205;male;12.10.1971;;
+Borisenko;Andrei Ivanovich;Russia;2;485816;male;17.4.1964;;
+Surayev;Maksim Viktorovich;Russia;2;481690;male;24.5.1972;;
+Misurkin;Aleksandr Aleksandrovich;Russia;2;481649;male;23.9.1977;;
+Romanenko;Roman Yuriyevich;Russia;2;480179;male;9.8.1971;;
+Lyakhov;Vladimir Afanasiyevich;USSR;3;479987;male;20.7.1941;19.4.2018;77
+Skripochka;Oleg Ivanovich;Russia;3;477390;male;24.12.1969;;
+Samokutyayev;Aleksandr Mikhailovich;Russia;2;477323;male;13.3.1970;;
+Gidzenko;Yuri Pavlovich;USSR;3;475124;male;26.3.1962;;
+Williams;"Sunita Lyn ""Suni""";USA;2;463275;female;19.9.1965;;
+Nespoli;Paolo Angelo;Italy;3;450876;male;6.4.1957;;
+Manakov;Gennadi Mikhailovich;USSR;2;446238;male;1.6.1950;26.9.2019;69
+Aleksandrov;Aleksandr Pavlovich;USSR;2;446042;male;20.2.1943;;
+Acaba;Joseph Michael;USA;3;440674;male;17.5.1967;;
+Ryazansky;Sergei Nikolayevich;Russia;2;439161;male;13.11.1974;;
+Ivanishin;Anatoli Alekseyevich;Russia;2;403792;male;15.1.1969;;
+Strekalov;Gennadi Mikhailovich;USSR;5;387262;male;26.10.1940;25.12.2004;64
+Lopez-Alegria;"Michael Eladio ""LA""";USA;4;371443;male;30.5.1958;;
+Savinykh;Viktor Petrovich;USSR;3;363937;male;7.3.1940;;
+Dezhurov;Vladimir Nikolayevich;USSR;2;351688;male;30.7.1962;;
+Kopra;Timothy Lennart;USA;2;351421;male;9.4.1963;;
+Atkov;Oleg Yuriyevich;USSR;1;341209;male;9.5.1949;;
+Walz;Carl Erwin;USA;4;331982;male;6.9.1955;;
+Chiao;Leroy;USA;4;330279;male;28.8.1960;;
+Mastracchio;"Richard Alan ""Rick""";USA;4;327696;male;11.2.1960;;
+Bursch;Daniel Wheeler;USA;4;326774;male;25.7.1957;;
+Feustel;"Andrew Jay ""Drew""";USA;3;324555;male;25.8.1965;;
+McArthur;"William Surles, Jr. ""Bill""";USA;4;323896;male;26.7.1951;;
+Lucid;Shannon Matilda Wells;USA;5;321290;female;14.1.1943;;
+Lebedev;Valentin Vitaliyevich;USSR;2;315719;male;14.4.1942;;
+Kovalyonok;Vladimir Vasiliyevich;USSR;3;311588;male;3.3.1942;;
+Virts;Terry Wayne, Jr.;USA;2;307368;male;1.12.1967;;
+Bowersox;"Kenneth Dwane ""Sox""";USA;5;304691;male;14.11.1956;;
+Barratt;Michael Reed;USA;2;304546;male;16.4.1959;;
+Berezovoy;Anatoli Nikolayevich;USSR;1;304384;male;11.4.1942;20.9.2014;72
+Helms;Susan Jane;USA;5;303783;female;26.2.1958;;
+Arnold;"Richard Robert II ""Ricky""";USA;2;301769;male;26.11.1963;;
+Haigneré;Jean-Pierre;France;2;301704;male;19.5.1948;;
+Lu;Edward Tsang;USA;3;296596;male;1.7.1963;;
+Thirsk;Robert Brent;Canada;2;294868;male;17.8.1953;;
+Phillips;John Lynch;USA;3;293362;male;15.4.1951;;
+Kuipers;André;Netherlands;2;293270;male;5.10.1958;;
+McClain;"Anne Charlotte ""Annimal""";USA;1;293236;female;7.6.1979;;
+Saint-Jacques;David;Canada;1;293236;male;6.1.1970;;
+Hague;"Tyler Nicklaus ""Nick""";USA;1;291825;male;24.9.1975;;
+Voss;James Shelton;USA;5;291206;male;3.3.1949;;
+Sharipov;Salizhan Shakirovich;USSR;2;290330;male;24.8.1964;;
+Lonchakov;Yuri Valentinovich;Russia;3;289116;male;4.3.1965;;
+Popov;Leonid Ivanovich;USSR;3;288884;male;31.8.1945;;
+Cristoforetti;Samantha;Italy;1;287562;female;26.4.1977;;
+Tokarev;Valeri Ivanovich;USSR;2;287465;male;29.10.1952;;
+Chamitoff;Gregory Errol;USA;2;286200;male;6.8.1962;;
+De Winne;Frank Luc;Belgium;2;286174;male;25.4.1961;;
+Pesquet;Thomas Gautier;France;1;283310;male;27.2.1978;;
+Auñón-Chancellor;Serena Maria;USA;1;283310;female;9.4.1976;;
+Prokopyev;Sergei Valerievich;Russia;1;283310;male;19.2.1975;;
+Swanson;"Steven Ray ""Swanny""";USA;3;282045;male;3.12.1960;;
+Fossum;Michael Edward;USA;3;279061;male;19.12.1957;;
+Kimbrough;Robert Shane;USA;2;272144;male;4.6.1967;;
+Burbank;Daniel Christopher;USA;3;272027;male;27.7.1961;;
+Caldwell-Dyson;Tracy Ellen;USA;2;271873;female;14.8.1969;;
+Peake;Timothy Nigel;United Kingdom;1;267731;male;7.4.1972;;
+Treshchov;Sergei Yevgeniyevich;Russia;1;266294;male;18.8.1958;;
+Lazutkin;Aleksandr Ivanovich;Russia;1;266287;male;30.10.1957;;
+Cassidy;"Christopher John ""Chris""";USA;2;262020;male;4.1.1970;;
+Coleman;"Catherine Grace ""Cady""";USA;3;259438;female;14.12.1960;;
+Nyberg;Karen Lujean;USA;2;259230;female;7.10.1969;;
+Balandin;Aleksandr Nikolayevich;USSR;1;257837;male;30.7.1953;;
+Poleshchuk;Aleksandr Fyodorovich;USSR;1;257803;male;30.10.1953;;
+Kondakova;Yelena Vladimirovna;USSR;2;256961;female;30.3.1957;;
+Wheelock;Douglas Harry;USA;2;256894;male;5.5.1960;;
+Wilmore;"Barry Eugene ""Butch""";USA;2;256378;male;29.12.1962;;
+Garan;Ronald John, Jr.;USA;2;256314;male;30.10.1961;;
+Thomas;Andrew Sydney Withiel;USA;4;255432;male;18.12.1951;;
+Noguchi;Soichi;Japan;2;255064;male;15.4.1965;;
+Laveykin;Aleksandr Ivanovich;USSR;1;250765;male;21.4.1951;;
+Ryzhikov;Sergei Nikolaevich;Russia;1;249315;male;19.8.1974;;
+Wolf;"David Alexander ""Bluto""";USA;4;242455;male;23.8.1956;;
+Kanai;Norishige;Japan;1;242238;male;5.12.1976;;
+Tingle;"Scott David ""Maker""";USA;1;242238;male;19.7.1965;;
+Vande Hei;Mark Thomas;USA;1;242234;male;10.11.1966;;
+Furukawa;Satoshi;Japan;1;240852;male;4.4.1964;;
+Serova;Yelena Olegovna;Russia;1;240822;female;22.4.1976;;
+Anderson;Clayton Conrad;USA;2;240310;male;23.2.1959;;
+Hopkins;Michael Scott;USA;1;239425;male;28.11.1968;;
+Parmitano;Luca Salvo;Italy;2;239417;male;27.9.1976;;
+Hadfield;Chris Austin;Canada;3;238578;male;29.8.1959;;
+Wiseman;Gregory Reid;USA;1;238081;male;11.11.1975;;
+Walker;Shannon;USA;1;235151;female;4.6.1965;;
+Creamer;"Timothy John ""TJ""";USA;1;235052;male;15.11.1959;;
+Marshburn;"Thomas Henry ""Tom""";USA;2;232263;male;29.8.1960;;
+Blaha;John Elmer;USA;5;232005;male;26.8.1942;;
+Shepherd;William McMichael;USA;4;229429;male;26.7.1949;;
+Kondratiyev;Dmitri Yuriyevich;Russia;1;229397;male;25.5.1969;;
+Ford;Kevin Anthony;USA;2;226868;male;7.7.1960;;
+Magnus;Sandra Hall;USA;3;226603;female;30.10.1964;;
+Bresnik;"Randolph James ""Randy""";USA;2;215292;male;11.9.1967;;
+Ivanchenkov;Aleksandr Sergeyevich;USSR;2;212437;male;28.9.1940;;
+Dzhanibekov;Vladimir Aleksandrovich;USSR;5;209756;male;13.5.1942;;
+Artsebarsky;Anatoli Pavlovich;USSR;1;208281;male;9.9.1956;;
+Tarelkin;Yevgeni Igorevich;Russia;1;206895;male;29.12.1974;;
+Culbertson;Frank Lee, Jr.;USA;3;206810;male;15.5.1949;;
+Linenger;Jerry Michael;USA;2;206089;male;16.1.1955;;
+Lindgren;Kjell Norwood;USA;1;204009;male;23.1.1973;;
+Yui;Kimiya;Japan;1;204009;male;30.1.1970;;
+Hoshide;Akihiko;Japan;2;202646;male;28.12.1968;;
+Thagard;Norman Earl;USA;5;202405;male;3.7.1943;;
+Fischer;"Jack David ""2fish""";USA;1;195488;male;23.1.1974;;
+Grechko;Georgi Mikhailovich;USSR;3;194192;male;25.5.1931;8.4.2017;86
+Tani;Daniel Michio;USA;2;189724;male;1.2.1961;;
+Revin;Sergei Nikolayevich;Russia;1;179991;male;12.1.1966;;
+Onishi;Takuya;Japan;1;165741;male;22.12.1975;;
+Rubins;"Kathleen Hallisey ""Kate""";USA;1;165741;female;14.10.1978;;
+Reisman;"Garrett Erin ""Big G""";USA;2;154275;male;10.2.1968;;
+Stott;Nicole Marie Passonno;USA;2;148668;female;19.11.1962;;
+Carr;"Gerald Paul ""Jerry""";USA;1;121035;male;22.8.1932;;
+Gibson;Edward George;USA;1;121035;male;8.11.1936;;
+Pogue;William Reid;USA;1;121035;male;23.1.1930;3.3.2014;84
+Zalyotin;Sergei Viktorovich;USSR;2;120514;male;21.4.1962;;
+Sevastiyanov;Vitali Ivanovich;USSR;2;116178;male;8.7.1935;5.4.2010;75
+Klimuk;Pyotr Iliyich;USSR;3;113417;male;10.7.1942;;
+Garriott;Owen Kay;USA;2;100496;male;22.11.1930;15.4.2019;89
+Bean;Alan LaVern;USA;2;100305;male;15.3.1932;26.5.2018;86
+Eyharts;Léopold Paul Pierre;France;2;99208;male;28.4.1957;;
+Lousma;Jack Robert;USA;2;97153;male;29.2.1936;;
+Rominger;Kent Vernon;USA;5;96654;male;7.8.1956;;
+Chang-Diaz;Franklin Ramon;USA;7;96135;male;5.4.1950;;
+Wetherbee;"James Donald ""Wexbee""";USA;6;95660;male;27.11.1952;;
+Vasyutin;Vladimir Vladimirovich;USSR;1;93472;male;8.3.1952;19.7.2002;50
+Cockrell;"Kenneth Dale ""Taco""";USA;5;92904;male;9.4.1950;;
+Jernigan;"Tamara Elizabeth ""Tammy""";USA;5;90804;female;7.5.1959;;
+Lindsey;Steven Wayne;USA;5;90633;male;24.8.1960;;
+Linnehan;Richard Michael;USA;4;85678;male;19.9.1957;;
+Grunsfeld;John Mace;USA;5;84421;male;10.10.1958;;
+Ross;Jerry Lynn;USA;7;83571;male;20.1.1948;;
+Parazynski;Scott Edward;USA;5;83011;male;28.7.1961;;
+Brown;"Curtis Lee, Jr. ""Curt""";USA;6;82984;male;11.3.1956;;
+Ivins;Marsha Sue;USA;5;80506;female;15.4.1951;;
+Kelly;Mark Edward;USA;4;77882;male;21.2.1964;;
+Musgrave;Franklin Story;USA;6;76915;male;19.8.1935;;
+Jones;Thomas David;USA;4;76368;male;22.1.1955;;
+Kregel;Kevin Richard;USA;4;75980;male;16.9.1956;;
+Halsell;James Donald, Jr.;USA;5;75510;male;29.9.1956;;
+Volynov;Boris Valentinovich;USSR;2;75317;male;18.12.1934;;
+Altman;"Scott Douglas ""Scooter"" ""Bear""";USA;4;74207;male;15.8.1959;;
+Sturckow;"Frederick Wilford ""Rick""";USA;4;74014;male;11.8.1961;;
+Lawrence;Wendy Barrien;USA;4;73674;female;2.7.1959;;
+Hoffman;Jeffrey Alan;USA;5;72713;male;2.11.1944;;
+Dunbar;Bonnie Jeanne;USA;5;72503;female;3.3.1949;;
+Merbold;Ulf Dietrich;Germany;3;71856;male;20.6.1941;;
+Zholobov;Vitali Mikhailovich;USSR;1;70943;male;18.6.1937;;
+Voss;Janice Elaine;USA;5;70787;female;8.10.1956;6.2.2012;56
+Conrad;"Charles, Jr. ""Pete""";USA;4;70778;male;2.6.1930;8.7.1999;69
+Gorie;Dominic Lee Pudwill;USA;4;70038;male;2.5.1957;;
+Robinson;Stephen Kern;USA;4;69708;male;26.10.1955;;
+Jing;Haipeng;China;3;68781;male;24.10.1966;;
+Horowitz;"Scott Jay ""Doc""";USA;4;68318;male;24.3.1957;;
+Wisoff;"Peter Jeffrey Kelsay ""Jeff""";USA;4;63847;male;16.8.1958;;
+Tanner;"Joseph Richard ""Joe""";USA;4;62714;male;21.1.1950;;
+Chrétien;Jean-Loup Jacques Marie;France;3;62597;male;20.8.1938;;
+Newman;James Hansen;USA;4;62527;male;16.10.1956;;
+Thomas;Donald Alan;USA;4;62411;male;6.5.1955;;
+Gernhardt;Michael Landon;USA;4;62339;male;4.5.1956;;
+Wilson;Stephanie Diana;USA;3;61906;female;27.9.1966;;
+Henricks;"Terence Thomas ""Tom""";USA;4;61597;male;5.7.1952;;
+Nicollier;Claude;Switzerland;4;61204;male;2.9.1944;;
+Wilcutt;Terrence Wade;USA;4;60481;male;31.10.1949;;
+Jett;Brent Ward, Jr.;USA;4;60118;male;5.10.1958;;
+Currie;Nancy Jane Sherlock;USA;4;59972;female;29.12.1958;;
+Polansky;"Mark Lewis ""Roman""";USA;3;59689;male;2.6.1956;;
+Ochoa;Ellen Lauri;USA;4;58777;female;10.5.1958;;
+Duffy;Brian;USA;4;58655;male;20.6.1953;;
+Thornton;Kathryn Ryan Cordell;USA;4;58513;female;17.8.1952;;
+Ferguson;Christopher John;USA;3;58203;male;1.9.1961;;
+Bowen;Stephen Gerard;USA;3;58201;male;13.2.1964;;
+Baker;Michael Allen;USA;4;57898;male;27.10.1953;;
+Smith;Steven Lee;USA;4;57616;male;30.12.1958;;
+Forrester;Patrick Graham;USA;3;57016;male;31.3.1957;;
+Searfoss;Richard Alan;USA;3;56358;male;5.6.1956;29.9.2018;62
+Precourt;Charles Joseph;USA;4;55936;male;29.6.1955;;
+Melroy;Pamela Ann;USA;3;55923;female;17.9.1961;;
+Godwin;Linda Maxine;USA;4;55092;female;2.7.1952;;
+Cabana;Robert Donald;USA;4;54642;male;23.1.1943;;
+Allen;"Andrew Michael ""Andy""";USA;3;54251;male;4.8.1955;;
+Curbeam;"Robert Lee, Jr. ""Beamer""";USA;3;54150;male;5.3.1962;;
+Gubarev;Aleksei Aleksandrovich;USSR;2;53975;male;29.3.1931;21.2.2015;84
+Walheim;Rex Joseph;USA;3;52351;male;10.10.1962;;
+Collins;"Eileen Marie ""MOM""";USA;4;52329;female;19.11.1956;;
+Hobaugh;"Charles Owen ""Scorch""";USA;3;52306;male;5.11.1961;;
+Gibson;"Robert Lee ""Hoot""";USA;5;52095;male;30.10.1946;;
+Vittori;Roberto;Italy;3;51145;male;15.10.1964;;
+Reilly;"James Francis II ""J.R.""";USA;3;51033;male;18.3.1954;;
+Sellers;Piers John;USA;3;50942;male;11.4.1955;23.12.2016;61
+Apt;"Jerome III ""Jay""";USA;4;50829;male;28.4.1949;;
+Young;John Watts;USA;6;50139;male;24.9.1930;5.1.2018;88
+Casper;John Howard;USA;4;49551;male;9.7.1943;;
+Harbaugh;Gregory Jordan;USA;4;49079;male;15.4.1956;;
+Akers;Thomas Dale;USA;4;48883;male;20.5.1951;;
+Oswald;Stephen Scot;USA;3;48870;male;30.6.1951;;
+Richards;"Richard Noel ""Dick""";USA;4;48809;male;24.8.1946;;
+Kavandi;Janet Lynn;USA;3;48728;female;17.7.1959;;
+Weitz;Paul Joseph;USA;2;47593;male;25.7.1932;22.10.2017;85
+Lee;Mark Charles;USA;4;47392;male;14.8.1952;;
+Brandenstein;Daniel Charles;USA;4;47343;male;17.1.1943;;
+Bloomfield;"Michael John ""Bloomer""";USA;3;46739;male;16.3.1959;;
+Chen;Dong;China;1;46469;male;12.12.1978;;
+Hawley;Steven Alan;USA;5;46241;male;12.12.1951;;
+Hieb;Richard James;USA;3;45994;male;21.9.1955;;
+Chawla;Kalpana;USA;2;45534;female;17.3.1962;1.2.2003;41
+Johnson;"Gregory Harold ""Box""";USA;2;45349;male;12.5.1962;;
+Doi;Takao;Japan;2;45285;male;18.9.1954;;
+Brand;Vance DeVoe;USA;4;44762;male;9.5.1931;;
+Barry;Daniel Thomas;USA;3;44065;male;30.12.1953;;
+Gorbatko;Viktor Vasiliyevich;USSR;3;43967;male;3.12.1934;17.5.2017;83
+Walker;David Mathieson;USA;4;43467;male;20.5.1944;23.4.2001;57
+Seddon;Margaret Rhea;USA;3;43341;female;8.11.1947;;
+Nagel;Steven Ray;USA;4;43294;male;27.10.1946;21.8.2014;68
+Lovell;"James Arthur, Jr. ""Shaky""";USA;4;42903;male;25.3.1928;;
+Low;George David;USA;3;42845;male;19.2.1956;15.3.2008;52
+Meade;Carl Joseph;USA;3;42734;male;16.11.1950;;
+Hire;"Kathryn Patricia ""Kay""";USA;2;42716;female;26.8.1959;;
+Behnken;Robert Louis;USA;2;42497;male;28.7.1970;;
+Chilton;"Kevin Patrick ""Chilly""";USA;3;42262;male;3.11.1954;;
+Garneau;Joseph Jean-Pierre Marc;Canada;3;41879;male;23.2.1949;;
+Zamka;"George David ""Zambo""";USA;2;41549;male;29.6.1962;;
+Volkov;Vladislav Nikolayevich;USSR;2;41341;male;23.11.1935;30.6.1971;36
+Bluford;"Guion Stewart, Jr. ""Guy""";USA;4;41313;male;22.11.1942;;
+Williams;"Dafydd Rhys ""Dave""";Canada;2;41265;male;16.5.1954;;
+Boe;Eric Allen;USA;2;41253;male;1.10.1964;;
+Baker;Ellen Louise Shulman;USA;3;41191;female;27.4.1953;;
+Hurley;Douglas Gerald;USA;2;40993;male;21.10.1966;;
+Bolden;"Charles Frank, Jr. ""Charlie""";USA;4;40837;male;19.8.1946;;
+Clervoy;Jean-François André;France;3;40505;male;19.11.1958;;
+Davis;Nancy Jan;USA;3;40445;female;1.11.1953;;
+Kerwin;Joseph Peter;USA;1;40370;male;19.2.1932;;
+Readdy;"William Francis ""Bill""";USA;3;40363;male;24.1.1952;;
+Poindexter;"Alan Goodwin ""Dex""";USA;2;40148;male;5.11.1961;1.7.2012;51
+Clifford;"Michael Richard Uram ""Rich""";USA;3;39984;male;13.10.1952;;
+Olivas;"John Daniel ""Danny""";USA;2;39904;male;25.5.1965;;
+Ashby;"Jeffrey Shears ""Bones""";USA;3;39857;male;1.6.1954;;
+Stefanyshyn-Piper;Heidemarie Martha;USA;2;39815;female;7.2.1963;;
+Lockhart;"Paul Scott ""Paco""";USA;2;39802;male;28.4.1956;;
+Guidoni;Umberto;Italy;2;39790;male;18.8.1954;;
+Thuot;Pierre Joseph;USA;3;39291;male;19.5.1955;;
+Covey;Richard Oswalt;USA;4;38709;male;1.8.1946;;
+Fuglesang;Arne Christer;Sweden;2;38497;male;18.3.1957;;
+Kelly;"James McNeal ""Vegas""";USA;2;38481;male;14.5.1964;;
+Archambault;"Lee Joseph ""Bru""";USA;2;38380;male;25.8.1960;;
+Patrick;Nicholas James MacDonald;USA;2;38330;male;19.11.1964;;
+Simonyi;"Charles ""Károly""";USA;2;38305;male;10.9.1948;;
+Foreman;Michael James;USA;2;38247;male;29.3.1957;;
+Grabe;Ronald John;USA;4;37658;male;13.6.1945;;
+Husband;Rick Douglas;USA;2;37053;male;12.7.1957;1.2.2003;46
+Haigneré;Claudie;France;2;36862;female;13.5.1957;;
+Durrance;Samuel Thornton;USA;2;36853;male;17.9.1943;;
+Parise;Ronald Anthony;USA;2;36853;male;24.5.1951;9.5.2008;57
+Drew;Benjamin Alvin, Jr.;USA;2;36779;male;5.11.1962;;
+Ham;Kenneth Todd;USA;2;36761;male;12.12.1964;;
+Payette;Julie;Canada;2;36718;female;20.10.1963;;
+McMonagle;Donald Ray;USA;3;36334;male;14.5.1952;;
+Anderson;Michael Philip;USA;2;35647;male;25.12.1959;1.2.2003;44
+Good;"Michael Timothy ""Bueno""";USA;2;35525;male;13.10.1962;;
+Scott;Winston Elliott;USA;2;35434;male;6.8.1950;;
+Antonelli;"Dominic Anthony ""Tony""";USA;2;35397;male;23.8.1967;;
+Gemar;"Charles Donald ""Sam""";USA;3;34898;male;4.8.1955;;
+Massimino;Michael James;USA;2;34307;male;19.8.1962;;
+Dobrovolsky;Georgi Timofeyevich;USSR;1;34221;male;1.6.1928;30.6.1971;43
+Patsayev;Viktor Ivanovich;USSR;1;34221;male;19.6.1933;30.6.1971;38
+Mukai;Chiaki;Japan;2;34059;female;6.5.1952;;
+Cernan;"Eugene Andrew ""Gene""";USA;3;33975;male;14.3.1934;16.1.2017;83
+Frick;Stephen Nathaniel;USA;2;33963;male;30.9.1964;;
+Crippen;"Robert Laurel ""Crip""";USA;4;33947;male;11.9.1937;;
+Melvin;"Leland Devon ""Lee""";USA;2;33937;male;15.2.1964;;
+Cameron;Kenneth Donald;USA;3;33730;male;29.11.1949;;
+Runco;"Mario, Jr. ""Trooper""";USA;3;33067;male;26.1.1952;;
+Scott;David Randolph;USA;3;32813;male;6.6.1932;;
+Schlegel;Hans Wilhelm;Germany;2;32761;male;3.8.1951;;
+Shaw;Brewster Hopkinson, Jr.;USA;3;32031;male;16.5.1945;;
+Sullivan;Kathryn Dwyer;USA;3;31969;female;3.10.1951;;
+Leestma;David Cornell;USA;3;31952;male;6.5.1949;;
+MacLean;Steven Glenwood;Canada;2;31202;male;14.12.1954;;
+Nikolayev;Andriyan Grigoriyevich;USSR;2;31160;male;5.9.1929;3.7.2004;75
+Mattingly;"Thomas Kenneth II ""Ken""";USA;3;30514;male;17.3.1936;;
+Stafford;"Thomas Patten ""Tom""";USA;4;30462;male;17.9.1930;;
+Bykovsky;Valeri Fyodorovich;USSR;3;29868;male;2.8.1934;27.3.2019;85
+Makarov;Oleg Grigoriyevich;USSR;3;29840;male;6.1.1933;28.5.2003;70
+Hilmers;David Carl;USA;4;29656;male;28.1.1950;;
+Buchli;James Frederick;USA;4;29424;male;20.6.1945;;
+Gutierrez;"Sidney McNeill ""Sid""";USA;2;29283;male;27.6.1951;;
+Hartsfield;"Henry Warren, Jr. ""Hank""";USA;3;28970;male;21.11.1933;17.7.2014;81
+Lounge;John Michael;USA;3;28943;male;28.6.1946;1.3.2011;65
+Noriega;Carlos Ismael;USA;2;28877;male;8.10.1959;;
+Walker;Charles David;USA;3;28676;male;29.8.1948;;
+Borman;Frank Frederick II;USA;2;28655;male;14.3.1928;;
+Baturin;Yuri Mikhailovich;Russia;2;28423;male;1.1.1949;;
+Savitskaya;Svetlana Yevgeniyevna;USSR;2;28386;female;8.8.1948;;
+Ewald;Reinhold;Germany;1;28354;male;18.12.1956;;
+Crouch;Roger Keith;USA;2;28316;male;12.9.1940;;
+Linteris;Gregory Thomas;USA;2;28316;male;4.10.1957;;
+Kilrain;Susan Leigh;USA;2;28316;female;24.10.1961;;
+Nie;Haisheng;China;2;27961;male;13.10.1964;;
+Coats;Michael Lloyd;USA;3;27836;male;16.1.1946;;
+Parker;Robert Alan Ridley;USA;2;27772;male;14.12.1936;;
+Hammond;Lloyd Blaine, Jr.;USA;2;27731;male;16.1.1952;;
+Lichtenberg;Byron Kurt;USA;2;27716;male;19.2.1948;;
+Mohri;Mamoru;Japan;2;27609;male;29.1.1948;;
+Gregory;Frederick Drew;USA;3;27304;male;7.1.1941;;
+Duque;Pedro Francisco;Spain;2;27046;male;14.3.1963;;
+Weber;Mary Ellen;USA;2;27029;female;24.8.1962;;
+Kubasov;Valeri Nikolayevich;USSR;3;26997;male;7.1.1935;19.2.2014;79
+Tognini;Michel Ange-Charles;France;2;26985;male;30.9.1949;;
+Popovich;Pavel Romanovich;USSR;2;26907;male;5.10.1930;29.9.2009;79
+Harris;Bernard Anthony, Jr.;USA;2;26288;male;26.6.1956;;
+Veach;Charles Lacy;USA;2;26178;male;18.9.1944;3.10.1995;51
+Hauck;"Frederick Hamilton ""Rick""";USA;3;26108;male;11.4.1941;;
+Glazkov;Yuri Nikolayevich;USSR;1;25525;male;2.10.1939;9.12.2008;69
+Sega;Ronald Michael;USA;2;25225;male;4.12.1952;;
+Nelson;"George Driver ""Pinky""";USA;3;24643;male;13.7.1950;;
+Brady;Charles Eldon, Jr.;USA;1;24347;male;12.8.1951;23.7.2006;55
+Favier;Jean-Jacques Henri;France;1;24347;male;13.4.1949;;
+Creighton;John Oliver;USA;3;24264;male;28.4.1943;;
+Gregory;"William George ""Borneo""";USA;1;23948;male;14.5.1957;;
+Shriver;Loren James;USA;3;23164;male;23.9.1944;;
+Bobko;"Karol Joseph ""Bo""";USA;3;23163;male;23.12.1937;;
+O'Connor;"Bryan Daniel ""O.C.""";USA;2;22998;male;6.9.1946;;
+Fullerton;Charles Gordon;USA;2;22970;male;11.10.1936;21.8.2013;77
+Brown;David McDowell;USA;1;22940;male;16.4.1956;1.2.2003;47
+Clark;Laurel Blair Salton;USA;1;22940;female;10.3.1961;1.2.2003;42
+McCool;"William Cameron ""Willie""";USA;1;22940;male;23.9.1961;1.2.2003;42
+Ramon;Ilan;Israel;1;22940;male;20.6.1954;1.2.2003;49
+Leslie;Fred Weldon;USA;1;22912;male;19.12.1951;;
+Sacco;"Albert, Jr. ""Al""";USA;1;22912;male;3.5.1949;;
+Buckey;Jay Clark, Jr.;USA;1;22910;male;6.6.1956;;
+Pawelczyk;"James Anthony ""Jim""";USA;1;22910;male;20.9.1960;;
+Cheli;Maurizio;Italy;1;22660;male;4.5.1959;;
+Artyukhin;Yuri Petrovich;USSR;1;22650;male;22.6.1930;4.8.1998;68
+Kadenyuk;Leonid Konstantinovich;USSR / Ukraine;1;22594;male;28.1.1951;31.1.2018;67
+Dutton;James Patrick, Jr.;USA;1;21767;male;20.11.1968;;
+Metcalf-Lindenburger;"Dorothy Marie ""Dottie""";USA;1;21767;female;2.5.1975;;
+Yamazaki;Naoko;Japan;1;21767;female;27.12.1970;;
+Mullane;"Richard Michael ""Mike""";USA;3;21380;male;10.9.1945;;
+Wang;Yaping;China;1;21029;female;27.1.1980;;
+Zhang;Xiaoguang;China;1;21029;male;1.5.1966;;
+Ride;Sally Kristen;USA;2;20627;female;26.5.1951;23.7.2012;61
+McDivitt;James Alton;USA;2;20336;male;10.6.1929;;
+van Hoften;"James Dougal Adrianus ""Ox""";USA;2;20277;male;11.6.1944;;
+Bagian;James Philipp;USA;2;20273;male;22.2.1952;;
+Gardner;Dale Allan;USA;2;20212;male;8.11.1948;19.2.2014;66
+Fettman;Martin Joseph;USA;1;20172;male;31.12.1956;;
+Adamson;James Craig;USA;2;20061;male;3.3.1946;;
+Camarda;Charles Joseph;USA;1;20012;male;8.5.1952;;
+Hernández;José Moreno;USA;1;19973;male;7.8.1962;;
+Perrin;Philippe;France;1;19955;male;6.1.1963;;
+DeLucas;"Lawrence James ""Larry""";USA;1;19890;male;11.7.1950;;
+Trinh;"Eugene Huu-Chau ""Gene""";USA;1;19890;male;14.9.1950;;
+Herrington;John Bennett;USA;1;19847;male;14.9.1958;;
+Reightler;Kenneth Stanley, Jr.;USA;2;19656;male;24.3.1951;;
+Gardner;Guy Spence;USA;2;19210;male;6.1.1948;;
+Fabian;John McCreary;USA;2;18963;male;28.1.1939;;
+Gordon;"Richard Francis, Jr. ""Dick""";USA;2;18953;male;5.10.1929;6.11.2017;88
+Allen;"Joseph Percival IV ""Joe""";USA;2;18838;male;27.6.1937;;
+Thornton;William Edgar;USA;2;18796;male;14.4.1929;;
+McCandless;Bruce II;USA;2;18751;male;8.6.1937;21.12.2017;80
+Melnick;"Bruce Edward ""Mel""";USA;2;18687;male;5.12.1949;;
+Johnson;"Gregory Carl ""Ray J""";USA;1;18577;male;30.7.1954;;
+McArthur;Katherine Megan;USA;1;18577;female;30.8.1971;;
+Higginbotham;Joan Elizabeth Miller;USA;1;18524;female;3.8.1964;;
+Oefelein;"William Anthony ""Bill""";USA;1;18524;male;29.3.1965;;
+Richards;Paul William;USA;1;18469;male;20.5.1964;;
+Nowak;Lisa Marie Caputo;USA;1;18396;female;10.5.1963;;
+Love;Stanley Glen;USA;1;18381;male;8.6.1965;;
+Morgan;"Barbara Radding ""Barby""";USA;1;18355;female;28.11.1951;;
+Liu;Wang;China;1;18205;male;25.3.1969;;
+Liu;Yang;China;1;18205;female;6.10.1978;;
+Evans;"Ronald Ellwin, Jr. ""Ron""";USA;1;18112;male;10.11.1933;7.4.1990;57
+Schmitt;"Harrison Hagan ""Jack""";USA;1;18112;male;3.7.1935;;
+Schirra;"Walter Marty, Jr. ""Wally""";USA;3;17713;male;12.3.1923;3.5.2007;84
+Irwin;"James Benson ""Jim""";USA;1;17712;male;17.3.1930;8.8.1991;61
+Worden;Alfred Merrill;USA;1;17712;male;7.2.1932;;
+Overmyer;Robert Franklyn;USA;2;17422;male;14.7.1936;22.3.1996;60
+Aldrin;"Edwin Eugene ""Buzz""";USA;2;17392;male;20.1.1930;;
+Stewart;Robert Lee;USA;2;17339;male;13.8.1942;;
+Williams;Donald Edward;USA;2;17254;male;13.2.1942;23.2.2016;74
+Garriott de Cayeux;Richard Allen;USA;1;17075;male;4.7.1961;;
+Tryggvason;Bjarni Valdimar;Canada;1;17066;male;21.9.1945;;
+Aksyonov;Vladimir Viktorovich;USSR;2;17051;male;1.2.1935;;
+Malyshev;Yuri Vasiliyevich;USSR;2;17039;male;27.8.1941;8.11.1999;58
+Volk;Igor Petrovich;USSR;1;16994;male;12.4.1937;3.1.2017;80
+Morukov;Boris Vladimirovich;Russia;1;16990;male;1.10.1950;1.1.2015;65
+Thiele;Gerhard Paul Julius;Germany;1;16179;male;2.9.1953;;
+Collins;Michael;USA;2;15964;male;31.10.1930;;
+Duke;"Charles Moss, Jr. ""Chuck""";USA;1;15951;male;3.10.1935;;
+Carey;"Duane Gene ""Digger""";USA;1;15730;male;30.4.1957;;
+Cleave;Mary Louise;USA;2;15720;female;5.2.1947;;
+Laliberté;Guy;Canada;1;15677;male;2.9.1959;;
+Muszaphar Shukor;Sheikh;Malaysia;1;15673;male;27.7.1972;;
+Yi;Soyeon;South Korea;1;15673;female;2.6.1978;;
+Ansari;Anousheh;USA;1;15665;female;12.9.1966;;
+Filipchenko;Anatoli Vasiliyevich;USSR;2;15663;male;26.2.1928;;
+Cunningham;"Ronnie Walter ""Walt""";USA;1;15609;male;16.3.1932;;
+Eisele;Donn Fulton;USA;1;15609;male;23.6.1930;1.12.1987;57
+Morin;Lee Miller Emile;USA;1;15582;male;9.9.1952;;
+Satcher;"Robert Lee, Jr. ""Bobby""";USA;1;15556;male;22.9.1965;;
+Brown;Mark Neil;USA;2;14967;male;18.11.1951;;
+Schweickart;"Russell Louis ""Rusty""";USA;1;14460;male;25.10.1935;;
+Walter;Ulrich Hans;Germany;1;14380;male;9.2.1954;;
+Shatalov;Vladimir Aleksandrovich;USSR;3;14275;male;8.12.1927;;
+Springer;Robert Clyde;USA;2;14252;male;21.5.1942;;
+Shargin;Yuri Georgiyevich;Russia;1;14249;male;20.3.1960;;
+Shuttleworth;"Mark Richard ""Buranov""";South Africa;1;14245;male;18.9.1973;;
+Pontes;Marcos Cesar;Brazil;1;14237;male;11.3.1963;;
+Olsen;"Gregory Hammond ""Greg""";USA;1;14235;male;20.4.1945;;
+Rukavishnikov;Nikolai Nikolayevich;USSR;3;14229;male;18.9.1932;19.10.2002;70
+Aimbetov;Aydyn Akanovich;Kazakhstan;1;14174;male;27.7.1972;;
+Mogensen;Andreas Enevold;Denmark;1;14174;male;2.11.1976;;
+Aleksandrov;"Aleksandr Panayatov ""Sasha""";Bulgaria;1;14169;male;1.12.1951;;
+Kozeyev;Konstantin Mirovich;Russia;1;14159;male;1.12.1967;;
+Cooper;"Leroy Gordon, Jr. ""Gordo""";USA;2;13514;male;6.3.1927;4.10.2004;77
+Engle;Joe Henry;USA;2;13470;male;26.8.1932;;
+Glenn;John Herschel, Jr.;USA;2;13119;male;18.7.1921;8.12.2016;95
+Gaffney;"Francis Andrew ""Drew""";USA;1;13094;male;9.6.1946;;
+Hughes-Fulford;Millie Elizabeth;USA;1;13094;female;21.12.1945;;
+Slayton;"Donald Kent ""Deke""";USA;1;13048;male;1.3.1924;13.6.1993;69
+Mitchell;"Edgar Dean ""Ed""";USA;1;12961;male;17.9.1930;4.2.2016;86
+Roosa;"Stuart Allen ""Stu""";USA;1;12961;male;16.8.1933;12.12.1994;61
+Shepard;"Alan Bartlett, Jr. ""Al""";USA;1;12961;male;18.11.1923;21.7.1998;75
+Yeliseyev;Aleksei Stanislavovich;USSR;3;12860;male;13.7.1934;;
+Frimout;Dirk Dries David Damiaan;Belgium;1;12849;male;21.3.1941;;
+Momand;"Abdulahad ""Abdulah""";Afghanistan;1;12746;male;1.1.1959;;
+Edwards;Joe Frank, Jr.;USA;1;12707;male;3.2.1958;;
+Armstrong;Neil Alden;USA;2;12359;male;5.8.1930;25.8.2012;82
+Truly;"Richard Harrison ""Dick""";USA;2;11961;male;12.11.1937;;
+McBride;Jon Andrew;USA;1;11843;male;14.8.1943;;
+Scully-Power;Paul Desmond;USA;1;11843;male;28.5.1944;;
+Bondar;Roberta Lynn;Canada;1;11594;female;4.12.1945;;
+Fisher;Anna Lee Tingle;USA;1;11504;transgender female;24.8.1949;;
+McNair;Ronald Erwin;USA;1;11475;male;21.10.1950;28.1.1986;36
+Malerba;Franco Egidio;Italy;1;11475;male;10.10.1946;;
+Faris;Muhammed Achmed;Syria;1;11464;male;26.5.1951;;
+Acton;Loren Wilber;USA;1;11445;male;7.3.1936;;
+Bartoe;John-David Francis;USA;1;11445;male;17.11.1944;;
+Bridges;Roy Dunbard, Jr.;USA;1;11445;male;19.7.1943;;
+England;Anthony Wayne;USA;1;11445;male;15.5.1942;;
+Henize;Karl Gordon;USA;1;11445;male;17.10.1926;5.10.1993;67
+Jemison;Mae Carol;USA;1;11430;female;17.10.1956;;
+Remek;"Vladimír ""Volodya""";Czechoslovakia;1;11416;male;26.9.1948;;
+Aubakirov;Toktar Ongarbayevich;USSR;1;11412;male;27.7.1946;;
+Viehböck;Franz Artur;Austria;1;11412;male;24.8.1960;;
+Tito;Dennis Anthony;USA;1;11404;male;8.8.1940;;
+Hermaszewski;"Miroslaw ""Mirek""";Poland;1;11402;male;15.9.1941;;
+Levchenko;Anatoli Semyonovich;USSR;1;11398;male;21.5.1941;6.8.1988;47
+Flade;Klaus-Dietrich;Germany;1;11396;male;23.8.1952;;
+Bella;Ivan;Slovakia;1;11396;male;25.5.1964;;
+Akiyama;Toyohiro;Japan;1;11394;male;22.7.1942;;
+Sharma;"Rakesh ""Rikki""";India;1;11380;male;13.1.1949;;
+Sharman;"Helen Patricia ""Lenochka""";United Kingdom;1;11353;female;30.5.1963;;
+Al Mansoori;Hazzaa Ali Abdan Khalfan;UAE;1;11341;male;13.12.1983;;
+Jähn;"Sigmund Werner Paul ""Sig""";Germany (GDR);1;11329;male;13.2.1937;21.9.2019;82
+Farkas;"Bertalan ""Bertsi""";Hungary;1;11325;male;2.8.1949;;
+Tamayo Méndez;"Arnaldo ""Guasso""";Cuba;1;11323;male;29.1.1942;;
+Gurragcha;"Zhugderdemidiyn ""Gurr""";Mongolia;1;11322;male;5.12.1947;;
+Pham;Tuân;Vietnam;1;11322;male;14.2.1947;;
+Prunariu;Dumitru Dorin;Romania;1;11321;male;27.9.1952;;
+Fisher;William Frederick;USA;1;10217;male;1.4.1946;;
+Al-Saud;Sultan bin Salman bin Abdulaziz;Saudi-Arabia;1;10178;male;27.6.1956;;
+Baudry;Patrick Pierre Roger;France;1;10178;male;6.3.1946;;
+Furrer;Reinhard Alfred;Germany;1;10124;male;25.11.1940;9.9.1995;55
+Messerschmid;Ernst Willi;Germany;1;10124;male;21.5.1945;;
+Ockels;Wubbo Johannes;Netherlands;1;10124;male;28.3.1946;18.5.2014;68
+Leonov;Aleksei Arkhipovich;USSR;2;10112;male;30.5.1934;11.10.2019;85
+Lind;Don Leslie;USA;1;10088;male;18.5.1930;;
+van den Berg;Lodewijk;USA;1;10088;male;24.3.1932;;
+Wang;Taylor Gun-Jin;USA;1;10088;male;16.6.1940;;
+Garn;"Edwin Jacob ""Jake""";USA;1;10075;male;12.10.1932;;
+Griggs;Stanley David;USA;1;10075;male;7.9.1939;17.6.1989;50
+Hart;"Terry Jonathan ""T.J.""";USA;1;10060;male;27.10.1946;;
+Scobee;"Francis Richard ""Dick""";USA;1;10060;male;19.5.1939;28.1.1986;47
+Hennen;Thomas John;USA;1;10010;male;17.8.1952;;
+Neri Vela;Rodolfo;Mexico;1;9904;male;19.2.1952;;
+Spring;"Sherwood Clark ""Woody""";USA;1;9904;male;3.9.1944;;
+Anders;"William Alison ""Bill""";USA;1;8820;male;17.10.1933;;
+Cenker;Robert Joseph, Jr.;USA;1;8763;male;5.11.1948;;
+Nelson;"Clarence William, Jr. ""Bill""";USA;1;8763;male;29.9.1942;;
+Resnik;"Judith Arlene ""J.R.""";USA;1;8696;female;5.4.1949;28.1.1986;37
+Haise;"Fred Wallace, Jr. ""Freddo""";USA;1;8574;male;14.11.1933;;
+Swigert;"John Leonard, Jr. ""Jack""";USA;1;8574;male;30.8.1931;27.12.1982;51
+Lenoir;"William Benjamin ""Bill""";USA;1;7334;male;14.3.1939;26.8.2010;71
+Peterson;Donald Herod;USA;1;7223;male;22.10.1933;27.5.2018;85
+Carter;"Manley Lanier, Jr. ""Sonny""";USA;1;7206;male;15.8.1947;5.4.1991;44
+McCulley;Michael James;USA;1;7179;male;4.8.1943;;
+Shonin;Georgi Stepanovich;USSR;1;7122;male;3.8.1935;6.4.1997;62
+Fei;Junlong;China;1;6932;male;5.5.1965;;
+White;Edward Higgins II;USA;1;5876;male;14.11.1930;27.1.1967;37
+Pailes;William Arthur;USA;1;5864;male;26.6.1952;;
+Beregovoy;Georgi Timofeyevich;USSR;1;5690;male;15.4.1921;30.6.1995;74
+Onizuka;Ellison Shoji;USA;1;4413;male;24.6.1946;28.1.1986;40
+Payton;Gary Eugene;USA;1;4413;male;20.6.1948;;
+Tereshkova;Valentina Vladimirovna;USSR;1;4250;female;6.3.1937;;
+Liu;Boming;China;1;4107;male;29.10.1966;;
+Zhai;Zhigang;China;1;4107;male;10.10.1966;;
+Komarov;Vladimir Mikhailovich;USSR;2;3064;male;16.3.1927;24.4.1967;40
+Dyomin;Lev Stepanovich;USSR;1;2892;male;11.1.1926;18.12.1998;72
+Sarafanov;Gennadi Vasiliyevich;USSR;1;2892;male;1.1.1942;29.9.2005;63
+Rozhdestvensky;Valeri Iliych;USSR;1;2886;male;13.2.1939;31.8.2011;72
+Zudov;Vyacheslav Dmitriyevich;USSR;1;2886;male;8.1.1942;;
+Khrunov;Yevgeni Vasiliyevich;USSR;1;2865;male;10.9.1933;19.5.2000;67
+Lazarev;Vasili Grigoriyevich;USSR;1;2835;male;23.2.1928;31.12.1990;62
+Ivanov;Georgy;Bulgaria;1;2821;male;2.7.1940;;
+Belyayev;Pavel Ivanovich;USSR;1;1562;male;26.6.1925;10.1.1970;45
+Titov;German Stepanovich;USSR;1;1518;male;11.9.1935;20.9.2000;65
+Feoktistov;Konstantin Petrovich;USSR;1;1457;male;7.2.1926;21.11.2009;83
+Yegorov;Boris Borisovich;USSR;1;1457;male;26.11.1937;12.9.1994;57
+Yang;Liwei;China;1;1282;male;21.6.1965;;
+Carpenter;Malcolm Scott;USA;1;296;male;1.5.1925;10.10.2013;88
+Grissom;"Virgil Ivan ""Gus""";USA;1;292;male;3.4.1926;27.1.1967;41
+Gagarin;Yuri Alekseyevich;USSR;1;106;male;9.3.1934;27.3.1968;34
